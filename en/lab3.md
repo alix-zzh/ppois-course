@@ -1,4 +1,4 @@
-# Lab Assignment #3. Large-Scale OOP Project
+# Lab Assignment #3. Another Large-Scale OOP Project
 
 ## Assignment
 
