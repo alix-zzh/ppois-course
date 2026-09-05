@@ -41,3 +41,9 @@ Each language directory contains the same set of files:
   different, individually assigned subject domain.
 - When updating one language version, mirror the change in the other so the
   two stay in sync.
+
+## Found a mistake?
+
+If you spot a typo, error, contradiction, or anything else that looks
+wrong in these materials, please open an issue in this repository on
+GitHub rather than reporting it elsewhere.
