@@ -6,7 +6,10 @@ Detailed rationale for each item is in `common_requirements.md`,
 
 ## 1. Repository and Process
 
-- [ ] The work is pushed to a git repository accessible to the instructor.
+- [ ] The work is pushed to a **single** GitHub repository accessible to
+      the instructor (not separate repositories per lab assignment).
+- [ ] The repository has top-level folders `lab1`, `lab2`, `lab3`, `lab4`
+      — one per lab assignment.
 - [ ] The repository has no files unrelated to the source code (build
       artifacts, IDE files, temporary files) — a `.gitignore` is in place.
 - [ ] Work happened in separate feature branches; changes reached `main`

@@ -54,7 +54,10 @@ from the domain implementation.
 
 ## Repository Requirements
 
-- All lab assignments must be pushed to a git repository.
+- All lab assignments live in a **single** GitHub repository — separate
+  repositories per lab assignment are not allowed.
+- Inside the repository, each lab assignment goes into its own top-level
+  folder: `lab1`, `lab2`, `lab3`, `lab4`.
 - The repository must not contain files unrelated to the source code
   (build artifacts, IDE files, etc.) — use a `.gitignore`.
 - Every commit on GitHub must have a clear, descriptive message (in Russian
