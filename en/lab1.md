@@ -9,7 +9,7 @@ generator for the chosen language (Doxygen for C++, Javadoc for Java,
 XML documentation and DocFX for C#, Sphinx/pdoc for Python).
 
 To verify the class, implement a console program with a menu. When running
-unit tests, coverage must be **at least 90%**, using a suitable unit
+unit tests, coverage must be **over 90%**, using a suitable unit
 testing library for the chosen language (e.g., UnitTest++/Catch2/GoogleTest
 for C++, JUnit for Java, NUnit/xUnit for C#, pytest/unittest for Python).
 

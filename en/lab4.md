@@ -88,7 +88,9 @@ requirements:
   container in Java, C#, Python);
 - throwing an exception when an error condition occurs.
 
-The testing mechanism is up to the developer: a console menu or unit tests.
+As with every lab assignment, both unit tests with over 90% coverage and a
+console menu demonstrating the sorting and container behavior are required
+(see the testing and CLI requirements in `common_requirements.md`).
 
 When defending the lab assignment, the student must be able to work with
 the chosen language's generic types, know the structure and properties of
@@ -131,16 +133,16 @@ Whether to create generic wrapper classes to represent vertices and edges
 is up to the developer.
 
 1. **2.1.1 Undirected graph (adjacency matrix).**
-2. **2.1.2 Directed graph (adjacency matrix).** Requirements — see 2.1.1.
-3. **2.1.3 Undirected graph (incidence matrix).** Requirements — see 2.1.1.
-4. **2.1.4 Directed graph (incidence matrix).** Requirements — see 2.1.1.
-5. **2.1.5 Undirected graph (adjacency list).** Requirements — see 2.1.1.
-6. **2.1.6 Directed graph (adjacency list).** Requirements — see 2.1.1.
-7. **2.1.7 Undirected graph (ordered edge lists).** Requirements — see 2.1.1.
-8. **2.1.8 Directed graph (ordered edge lists).** Requirements — see 2.1.1.
-9. **2.1.9 Undirected graph (orthogonal adjacency list).** Requirements — see 2.1.1.
-10. **2.1.10 Directed graph (orthogonal adjacency list).** Requirements — see 2.1.1.
-11. **2.1.11 Undirected graph (Wirth's structure).** Requirements — see 2.1.1. For traversing adjacent vertices, additionally implement a forward-only (single-direction) iterator.
-12. **2.1.12 Directed graph (Wirth's structure).** Requirements — see variants 2.1.1 and 2.1.11.
-13. **2.1.13 Undirected graph (modified Wirth's structure).** Requirements — see 2.1.1.
-14. **2.1.14 Directed graph (modified Wirth's structure).** Requirements — see 2.1.1.
+2. **2.1.2 Directed graph (adjacency matrix).**
+3. **2.1.3 Undirected graph (incidence matrix).**
+4. **2.1.4 Directed graph (incidence matrix).**
+5. **2.1.5 Undirected graph (adjacency list).**
+6. **2.1.6 Directed graph (adjacency list).**
+7. **2.1.7 Undirected graph (ordered edge lists).**
+8. **2.1.8 Directed graph (ordered edge lists).**
+9. **2.1.9 Undirected graph (orthogonal adjacency list).**
+10. **2.1.10 Directed graph (orthogonal adjacency list).**
+11. **2.1.11 Undirected graph (Wirth's structure).** For traversing adjacent vertices, additionally implement a forward-only (single-direction) iterator.
+12. **2.1.12 Directed graph (Wirth's structure).** See also variant 2.1.11.
+13. **2.1.13 Undirected graph (modified Wirth's structure).**
+14. **2.1.14 Directed graph (modified Wirth's structure).**

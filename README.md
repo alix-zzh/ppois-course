@@ -17,7 +17,7 @@ Each language directory contains the same set of files:
 
 | File | Contents |
 |---|---|
-| `common_requirements.md` | Requirements common to every lab: allowed languages, LLM/GenAI usage, testing, the repository, academic integrity, defense (including the code-accountability rule), the final theory mini-lecture, CI/CD, and common mistakes |
+| `common_requirements.md` | Requirements common to every lab: allowed languages, LLM/GenAI usage, testing, the CLI interface, the repository, academic integrity, defense (including the code-accountability rule), the final theory mini-lecture, CI/CD, and common mistakes |
 | `lab1.md` | Lab #1 — OOP fundamentals: designing a class (multiple variants) |
 | `lab2.md` | Lab #2 — a large-scale OOP project (individually assigned domain) |
 | `lab3.md` | Lab #3 — a large-scale OOP project on a second, different domain |
