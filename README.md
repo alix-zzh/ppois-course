@@ -26,6 +26,7 @@ Each language directory contains the same set of files:
 | `questions.md` | The list of theory defense questions |
 | `questions_help.md` | Self-check answers to the questions in `questions.md` |
 | `grade.md` | Grading criteria and the ten-point scale |
+| `checklist.md` | Instructor checklist for reviewing a submitted lab assignment |
 | `safety_precautions.md` | Computer lab safety rules |
 | `useful_links.md` | Supplementary videos, books, and sites |
 

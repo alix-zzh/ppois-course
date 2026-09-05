@@ -92,6 +92,10 @@ mini-lecture must be recorded answering **every** question from the list
 (see `questions.md`), roughly **1–2 minutes per question**. This is a
 separate, final deliverable submitted once at the end.
 
+The recording's total length must come out to **more than 40 minutes**. If
+the final video is shorter, that's a sign some answers were covered too
+shallowly and need to be expanded.
+
 ## Build, Testing, and CI/CD
 
 - The project must build and be tested from the console, without using an
