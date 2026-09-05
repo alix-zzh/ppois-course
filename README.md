@@ -28,6 +28,7 @@ Each language directory contains the same set of files:
 | `grade.md` | Grading criteria and the ten-point scale |
 | `checklist.md` | Instructor checklist for reviewing a submitted lab assignment |
 | `safety_precautions.md` | Computer lab safety rules |
+| `conduct_rules.md` | Classroom conduct rules: prohibited behavior, and what's allowed |
 | `useful_links.md` | Supplementary videos, books, and sites |
 
 ## Notes

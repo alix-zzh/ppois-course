@@ -2,7 +2,9 @@
 
 A list of topics for the extra lab assignment (assigned, for example, in
 case of a serious academic-integrity violation — see
-`common_requirements.md` — or at the instructor's discretion).
+`common_requirements.md` — a classroom-conduct violation, or a fourth or
+later unexcused absence — see `conduct_rules.md` — or at the instructor's
+discretion).
 
 ## Submission Requirements
 
