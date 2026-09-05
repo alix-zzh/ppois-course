@@ -26,7 +26,14 @@ Detailed rationale for each item is in `common_requirements.md`,
 - [ ] The Releases artifact can be downloaded and run independently of the
       development environment.
 
-## 3. Code Quality (Common Mistakes)
+## 3. CLI Interface
+
+- [ ] A console interface (CLI/menu) exists that demonstrates the domain's
+      meaningful functionality (not just running the tests) — e.g., adding/
+      removing an employee, shipping a package, generating a report, etc.
+- [ ] The CLI is separated from the domain implementation.
+
+## 4. Code Quality (Common Mistakes)
 
 - [ ] No magic numbers or hardcoded values (extracted into constants or a
       config).
@@ -41,7 +48,7 @@ Detailed rationale for each item is in `common_requirements.md`,
 - [ ] No commented-out or dead code, no `TODO`s in the final version.
 - [ ] No long chained calls without intermediate variables.
 
-## 4. Requirements Specific to Each Lab
+## 5. Requirements Specific to Each Lab
 
 ### Lab 1 (OOP fundamentals: a class)
 
@@ -94,7 +101,7 @@ Detailed rationale for each item is in `common_requirements.md`,
 - [ ] During the defense, the student is comfortable with the chosen
       language's generics and standard container library.
 
-## 5. Extra Assignment (if assigned)
+## 6. Extra Assignment (if assigned)
 
 - [ ] A handwritten (on-paper) walkthrough of the algorithm/data structure
       is submitted together with the defense.
@@ -103,7 +110,7 @@ Detailed rationale for each item is in `common_requirements.md`,
       structures — the invariants it maintains and how they're preserved
       across modifying operations.
 
-## 6. Defense
+## 7. Defense
 
 - [ ] Oral theory defense: **5 questions** from `questions.md` answered.
 - [ ] Written theory defense: **10 questions** from `questions.md`
@@ -113,21 +120,21 @@ Detailed rationale for each item is in `common_requirements.md`,
       handwritten walkthrough of the spot and a repeat defense with new
       spots, until fully successful).
 
-## 7. Final Theory Mini-Lecture (submitted once, after all labs)
+## 8. Final Theory Mini-Lecture (submitted once, after all labs)
 
 - [ ] Answers are given to **every** question in `questions.md`.
 - [ ] The recording's total length is **more than 40 minutes**.
 - [ ] If the video is shorter than 40 minutes — some answers were covered
       too shallowly and need to be expanded and re-recorded.
 
-## 8. Academic Integrity
+## 9. Academic Integrity
 
 - [ ] The work was done independently and has passed a plagiarism check.
 - [ ] Overlap with other work does not exceed the acceptable level (~30%
       of typical constructs); overlap above **50%** is grounds for
-      assigning an extra lab (see section 5 above).
+      assigning an extra lab (see section 6 above).
 
-## 9. Outcome
+## 10. Outcome
 
 - [ ] The number of labs submitted and the submission deadline are
       determined — cross-check against the admission/grade table in

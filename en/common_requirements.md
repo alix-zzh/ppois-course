@@ -40,6 +40,18 @@ the student cannot explain (see "Responsibility for Your Code" below).
   coverage.
 - Tests must be runnable from the console (not tied to a specific IDE).
 
+## CLI Requirements
+
+Every lab assignment must have a console interface (CLI/menu) that
+demonstrates the meaningful functionality of the implemented domain — this
+is a separate requirement, not satisfied merely by running unit tests. The
+interface must expose the domain's key behaviors, for example: adding and
+removing an employee, placing and shipping a package, computing a salary,
+generating a report, and so on — the exact set of operations depends on the
+domain and the type of lab assignment (see `lab1.md`–`lab4.md` for details
+and special cases). As with other requirements, the CLI must be separated
+from the domain implementation.
+
 ## Repository Requirements
 
 - All lab assignments must be pushed to a git repository.
