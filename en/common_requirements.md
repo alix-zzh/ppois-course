@@ -49,6 +49,9 @@ the student cannot explain (see "Responsibility for Your Code" below).
   or English) that explains what was changed and why, rather than a
   placeholder note. Messages like `commit 1`, `commit 2`, `fix`, `fix 1`,
   `final fix`, `wip`, `asdf`, and the like are not allowed.
+- Changes must never be pushed to `main` directly: work happens in
+  separate feature branches, and changes reach `main` only through a
+  Pull Request that the instructor has approved.
 
 ## Academic Integrity
 
