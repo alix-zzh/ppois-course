@@ -18,11 +18,6 @@ All videos in this list are hosted on YouTube.
 
 - David West, "Object Thinking"
 
-## Other Useful but Less Academic Videos
-
-- "YOUR BIGGEST MISTAKE IN OOP" (original title: "ТВОЯ ГЛАВНАЯ ОШИБКА В
-  ООП") — no link provided yet, needs to be added.
-
 ## Websites
 
 - [Refactoring.Guru](https://refactoring.guru)
