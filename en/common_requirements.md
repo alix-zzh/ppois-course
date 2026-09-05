@@ -45,6 +45,10 @@ the student cannot explain (see "Responsibility for Your Code" below).
 - All lab assignments must be pushed to a git repository.
 - The repository must not contain files unrelated to the source code
   (build artifacts, IDE files, etc.) — use a `.gitignore`.
+- Every commit on GitHub must have a clear, descriptive message (in Russian
+  or English) that explains what was changed and why, rather than a
+  placeholder note. Messages like `commit 1`, `commit 2`, `fix`, `fix 1`,
+  `final fix`, `wip`, `asdf`, and the like are not allowed.
 
 ## Academic Integrity
 
